@@ -8,3 +8,4 @@ Technologies Used
  - Equinor EDS
  - Recharts library
  
+Check out the web application here: https://dw-morphometric-database.azurewebsites.net/
