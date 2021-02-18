@@ -1,0 +1,38 @@
+.Wrapper{
+    height: 100vh;
+    overflow: auto;
+}
+
+.Body{
+    /* height: 1500px; */
+    background: #ebebeb;
+    padding-left: 170px;
+    padding-right: 170px;
+    /* text-align: center; */
+}
+
+.Header {
+    padding: 30px;
+    
+}
+
+.photo {
+    height: 600px;
+    width: 700px;
+}
+
+.ImageStudy {
+    max-width: 100%;
+}
+
+/* .ImgDim {
+    max-width: 100%;
+} */
+
+.ImgDim {
+    max-height: 300px;
+    width: 125px;
+    text-align: right;
+    /* margin: auto;    
+    display: block; */
+} 

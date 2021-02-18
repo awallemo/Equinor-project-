@@ -1,0 +1,13 @@
+
+.Icons {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-left: 40px;
+}
+
+.TempSearchWrapper {
+    display: flex;
+    flex-direction: row-reverse;
+}
+

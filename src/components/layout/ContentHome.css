@@ -1,0 +1,23 @@
+.Wrapper{
+    height: 100vh;
+    overflow: auto;
+}
+
+.BodyGrid{
+    height: 1500px;
+    background: #ebebeb;
+    padding-left: 170px;
+    padding-right: 170px;
+    /* text-align: center; */
+}
+
+.Grid{
+    height: auto;
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-gap: 32px 32px;
+    justify-content: center;
+}
